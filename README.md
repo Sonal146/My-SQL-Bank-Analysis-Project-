@@ -2,6 +2,10 @@
 This project analyzes banking data to derive actionable insights and key performance indicators (KPIs) for better decision-making. Using SQL, various queries and aggregations have been implemented to address important business questions. The dataset includes customer details, loan data, repayment statuses, and other financial metrics critical for portfolio management and customer analysis.
 
 The analysis focuses on extracting meaningful trends in lending, customer segmentation, payment behaviors, and geographic performance, which are essential for strategic planning in the banking sector.
+
+![image](https://github.com/user-attachments/assets/076040ce-7c05-422b-abd6-323129de3c31)
+
+
 # Objectives:
 The main objectives of this project are:
 
