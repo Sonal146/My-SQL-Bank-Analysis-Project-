@@ -22,18 +22,13 @@ The analysis focuses on extracting meaningful trends in lending, customer segmen
 
 ---
 
-## 🖼️ 2. Quick Look (30-second video + pics)  
+## 2. Quick Look (30-second video + pics)  
 Click the image below for a 30-second screen recording.  
 [![Watch demo](https://github.com/YOUR_USERNAME/bank-loan-dashboard/raw/main/images/youtube_thumb.png)](https://youtu.be/xxxxxx)
 
-Screenshots (static fallback):  
-- [KPI summary](images/kpi_summary.png)  
-- [Grade vs revolving balance](images/grade_revol.png)  
-- [Verified vs non-verified payments](images/verified.png)
-
 ---
 
-## 🗂️ 3. Repo Map (what lives where)  
+## 3. Repo Map (what lives where)  
 ```
 bank-loan-dashboard/
 │
@@ -76,7 +71,7 @@ bank-loan-dashboard/
 
 ---
 
-## 🧼 4. Data Journey (story time)  
+##  4. Data Journey (story time)  
 **Day 0 – The mess**  
 - CSV is 1.8 GB, Excel is 400 k rows.  
 - Dates: “7/8/09”, “2009-07-08”, “70809”.  
@@ -111,7 +106,7 @@ I saved the questions everyone asks as views:
 
 ---
 
-## 📊 6. Key Metrics I Delivered  
+##  6. Key Metrics I Delivered  
 | KPI | Number |
 |-----|--------|
 | Total loans | $434.8 M |
@@ -123,24 +118,23 @@ I saved the questions everyone asks as views:
 
 ---
 
-## 🛠️ 7. Tech & Tools Detail  
-- **Python**: pandas, numpy, pandas-profiling, jupyter  
-- **Postgres 14**: window functions, materialized views, btree indexes  
-- **Power BI**: DAX measures, row-level security, bookmarks  
-- **Tableau**: story sheets, parameters, sets for sensitivity  
+##  7. Tech & Tools Detail  
+- **Excel**:
+- **Tableau** 
+- **Power BI**
+- **MySQL**: story sheets, parameters, sets for sensitivity  
 - **GitHub Actions**: sqlfluff linter, dbt-style tests  
-- **Visual Studio Code**: remote containers ready  
 
 ---
 
-## 📈 8. Business Impact (recruiter bullets)  
+## 8. Business Impact 
 ✅ Judges at university demo day awarded “Best Data Story” out of 18 teams.  
 ✅ Portfolio club used insight to mock-up a 5 % pricing tweak → $3.4 M NPV on $500 M book.  
 ✅ Repo gained 120+ stars in six weeks; two recruiters now use it as a take-home case.  
 
 ---
 
-## 🧩 9. Future Ideas (open for PRs)  
+## 9. Future Ideas (open for PRs)  
 - Add 2016-2023 loan data for trend extension.  
 - Containerize with Docker-compose (Postgres + pgAdmin + dashboards).  
 - Build a small FastAPI endpoint that serves the SQL views as JSON.  
@@ -148,17 +142,17 @@ I saved the questions everyone asks as views:
 
 ---
 
-## 🤝 10. Connect / Questions?  
-- [LinkedIn](https://linkedin.com/in/YOUR_NAME)  
-- Email: your.name@email.com  
+##  10. Connect / Questions?  
+- [LinkedIn] www.linkedin.com/in/sonal-mk
+- Email: ksonal055@gmail.com 
 - Raise an Issue—I reply within 24 h.
 
 ---
 
-## 📄 11. License  
+##  11. License  
 MIT © 2024 YOUR_NAME – feel free to use, change, and share. Just link back to this repo.
 
 ---
 
 **If you read this far, thank you!**  
-Star ⭐ the repo if it helped, and happy analyzing.
+Star  the repo if it helped, and happy analyzing.
