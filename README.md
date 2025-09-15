@@ -11,13 +11,13 @@ The analysis focuses on extracting meaningful trends in lending, customer segmen
 
 ---
 
-## 📌 1. Project at a Glance  
+##  1. Project at a Glance  
 | Item | Answer |
 |------|--------|
 | **What I built** | End-to-end BI project that turns 3.9 M bank-loan rows (2007-2015) into clean dashboards and clear money insights. |
 | **My role** | **Data Lead** – I owned every step: clean, model, SQL, visuals, GitHub repo. |
 | **Industry** | Banking / Lending risk. |
-| **Stack** | Python, Postgres, SQL, Power BI, Tableau, GitHub Actions. |
+| **Stack** | Advanced Excel, My SQL, Power BI, Tableau, GitHub Actions. |
 | **Big win** | Verified borrowers pay 1.7× more and default 40 % less; a 5 % price break for them adds $3.4 M profit on a $500 M book. |
 
 ---
@@ -128,9 +128,9 @@ I saved the questions everyone asks as views:
 ---
 
 ## 8. Business Impact 
-✅ Judges at university demo day awarded “Best Data Story” out of 18 teams.  
-✅ Portfolio club used insight to mock-up a 5 % pricing tweak → $3.4 M NPV on $500 M book.  
-✅ Repo gained 120+ stars in six weeks; two recruiters now use it as a take-home case.  
+Judges at university demo day awarded “Best Data Story” out of 18 teams.  
+Portfolio club used insight to mock-up a 5 % pricing tweak → $3.4 M NPV on $500 M book.  
+Repo gained 120+ stars in six weeks; two recruiters now use it as a take-home case.  
 
 ---
 
